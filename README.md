@@ -80,8 +80,8 @@ A dedicated lab phone number is required for activation.
 ## 🏥 Built for Ibn Sina Hospital Laboratory
 
 For inquiries, technical support, or collaboration:
-**Contact:** \[Your Name] – System Developer
-**Email:** \[[your@email.com](mailto:your@email.com)]
+**Contact:** \[NourAlAsmar] – System Developer
+**Email:** \[[nouralasmar3@gmail.com](mailto:nouralasmar3@gmail.com)]
 
 ---
 
