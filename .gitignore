@@ -1,0 +1,17 @@
+.vs/
+*.user
+*.suo
+*.sln.docstates
+bin/
+obj/
+*.log
+*.tmp
+App_Data/
+*.dll
+*.pdb
+*.cache
+_ReSharper*/
+*.dbmdl
+*.bak
+*.mdf
+*.ldf
